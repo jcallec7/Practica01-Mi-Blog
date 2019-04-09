@@ -14,7 +14,7 @@ w3o validator:
 ![2](https://github.com/jcallec7/Practica01-Mi-Blog/blob/master/captures/2.png)
 ![3](https://github.com/jcallec7/Practica01-Mi-Blog/blob/master/captures/3.png)
 
-Continuamos con la ventana en donde se encuentra todos los singles, psd_singles.html, además de agregar un link en el cual se pueden observar y escuchar una parte de las canciones que se encuentras cargadas en Spotify. Para agregar este link hicimos uso de la etiqueta <iframe> la cual es genera automáticamente al elegir la opción de encode mediante la pestaña sharing de cada medio de Streaming.
+Continuamos con la ventana en donde se encuentra todos los singles, psd_singles.html, además de agregar un link en el cual se pueden observar y escuchar una parte de las canciones que se encuentras cargadas en Spotify. Para agregar este link hicimos uso de la etiqueta "iframe" la cual es genera automáticamente al elegir la opción de encode mediante la pestaña sharing de cada medio de Streaming.
 
 De igual forma se agrega una captura de el código, el resultado y la validación:
 
@@ -50,7 +50,7 @@ psd_plasticos.html
 ![17](https://github.com/jcallec7/Practica01-Mi-Blog/blob/master/captures/17.png)
 ![18](https://github.com/jcallec7/Practica01-Mi-Blog/blob/master/captures/18.png)
 
-Continuamos con la página pds_eventos.html en la cual colocamos la tabla con los diferentes nombres de las presentaciones de la banda junto a la fecha en la cual se realizaron. Para realizar la tabla utilizamos las etiquetas <table>, <th>, <tr> y <td> con las cuales definimos la posición de la información que deseamos ingresas. A continuación, capturas de los resultados:
+Continuamos con la página pds_eventos.html en la cual colocamos la tabla con los diferentes nombres de las presentaciones de la banda junto a la fecha en la cual se realizaron. Para realizar la tabla utilizamos las etiquetas "table", "th", "tr" y "td" con las cuales definimos la posición de la información que deseamos ingresas. A continuación, capturas de los resultados:
  
 ![19](https://github.com/jcallec7/Practica01-Mi-Blog/blob/master/captures/19.png)
 ![20](https://github.com/jcallec7/Practica01-Mi-Blog/blob/master/captures/20.png)
@@ -58,7 +58,7 @@ Continuamos con la página pds_eventos.html en la cual colocamos la tabla con lo
 
 Continuamos con la pestaña about.html en la cual vamos a encontrar información sobre la banda. En esta pestaña están aplicadas las 5 etiquetas de la fig. 1-16 del libro, las dos secciones requeridas en la practica con 3 artículos cada una y los respectivos id’s que nos fue facilitado con ejemplos en la página 63 del libro para llegar a cada uno de los artículos.
 
-Las etiquetas que fueron utilizadas fueron <u> que sirve para subrayar el texto, <small> utilizada para hacer más pequeño el texto que se encuentre dentro de esta etiqueta, <em> que sirve para inclinar el texto, <cite> utilizada para colocar el texto en un formato que indica que este esta siendo citado y por último <br> que ayuda a dar un salto de línea.
+Las etiquetas que fueron utilizadas fueron "u" que sirve para subrayar el texto, "small" utilizada para hacer más pequeño el texto que se encuentre dentro de esta etiqueta, "em" que sirve para inclinar el texto, "cite" utilizada para colocar el texto en un formato que indica que este esta siendo citado y por último "br" que ayuda a dar un salto de línea.
 
 A continuación, imágenes de los resultados:
 
